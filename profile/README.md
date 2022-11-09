@@ -6,7 +6,6 @@
 ***
 Devwrites is a virtual technical writing community focused on helping techies get started with technical writing and API documentation.
 
-***
 
 ## Useful Links
 [Resources](/) | [Website](/) | [Twitter](https://twitter.com/devwritesafrica) | [Join Whatsapp](https://chat.whatsapp.com/DxHuuaspr4dEPZ7L404ME8) 
