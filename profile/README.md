@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./logo.png" />
+  <img src="https://github.com/Devwrites-Africa/.github/blob/main/profile/logo.png" />
 </p>
 
 ***
